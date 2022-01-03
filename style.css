@@ -1,0 +1,10 @@
+div.container {
+    background-color: white;
+    height: 960px;
+    width: 960px;
+    border: 10px solid coral;
+    margin-top: 1rem;
+    display: grid;
+    /* grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr); */
+  }

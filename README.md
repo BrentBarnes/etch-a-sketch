@@ -16,6 +16,8 @@ I completed this project to practice javascript DOM manipulation.
 
 ![Demo Video](etch-a-sketch.gif)
 
+Click here for a [Live Demo](https://replit.com/@brenttbarness/Etch-A-Sketch?v=1)
+
 ### Reflection After Completion
 
 I was surprised with how much progress I made early on in the project. I hadn't spent any time figuring out CSS grid before this project, but it was obvious that it was probably the best method to use. I was able to combine that new information with query selectors which felt great.

@@ -4,13 +4,13 @@ I completed this project to practice javascript DOM manipulation.
 
 ### Functionality
 
-* Mousing over the draw area will fill in divs with color.
-* Select color mode: black and white, rainbow, or light black
+* Mousing over the draw area will <strong>fill in divs with color</strong>.
+* Select <strong>color mode</strong>: black and white, rainbow, or light black.
   * Black and White: fills in solid black squares
   * Rainbow: fills in randomly generated colors
   * Light Black: every mouseover adds 10% opacity to a div.
-* The column and row slider builds a css grid according to the slider value.
-* Clicking any button or adjusting the slider resets the drawing board
+* The column and row slider builds a <strong>css grid</strong> according to the slider value using <strong>javascript</strong>.
+* Clicking any button or adjusting the slider <strong>resets</strong> the drawing board.
 
 ### Demo Video
 

@@ -1,6 +1,22 @@
-# etch-a-sketch
+# Etch-A-Sketch
 
-This was a rather crazy project!
+I completed this project to practice javascript DOM manipulation. 
+
+### Functionality
+
+* Mousing over the draw area will fill in divs with color.
+* Select color mode: black and white, rainbow, or light black
+  * Black and White: fills in solid black squares
+  * Rainbow: fills in randomly generated colors
+  * Light Black: every mouseover adds 10% opacity to a div.
+* The column and row slider builds a css grid according to the slider value.
+* Clicking any button or adjusting the slider resets the drawing board
+
+### Demo Video
+
+![Demo Video](etch-a-sketch.gif)
+
+### Reflection After Completion
 
 I was surprised with how much progress I made early on in the project. I hadn't spent any time figuring out CSS grid before this project, but it was obvious that it was probably the best method to use. I was able to combine that new information with query selectors which felt great.
 
